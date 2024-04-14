@@ -5,7 +5,7 @@ import {
   checkInputType,
   isPalindrome,
   checkPalindrome,
-} from "../js/palindromeclean";
+} from "../js/palindrome";
 
 describe("validateInput(input)", () => {
   it("validateInput() to be defined", () => {
